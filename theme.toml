@@ -1,0 +1,12 @@
+name = "Fiddler"
+license = "Apache 2.0"
+licenselink = "https://github.com/jamesacampbell/fiddler/blob/master/LICENSE.md"
+description = "Fiddler"
+homepage = "https://github.com/jamesacampbell/fiddler"
+tags = ["blog", "bootstrap"]
+features = ["blog", "bootstrap"]
+min_version = 0.1
+
+[author]
+  name = "James Campbell"
+  homepage = "https://www.jamescampbell.us"
