@@ -2,7 +2,7 @@
 
 Hugo theme based on [Start Bootstrap Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/).
 
-![Screenshot](https://raw.githubusercontent.com/humboldtux/startbootstrap-clean-blog/master/images/tn.png)
+![Screenshot](https://raw.githubusercontent.com/jamesacampbell/fiddler/master/images/screenshot.png)
 
 ## Setup
 
