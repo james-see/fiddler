@@ -27,6 +27,7 @@ copyright = "Code released under the Apache 2.0 license."
   name = "James Campbell"
     
 [params]
+  SiteDescription = "coding advice in Python, software development, and tips related to how to fix bad technology"
   DateForm = "Mon, Jan 2, 2006"
   Description = "Pushing Buttons Since 1981"
   Author = "James Campbell"
